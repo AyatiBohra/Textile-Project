@@ -1,0 +1,3 @@
+yarn_type,n_orders,total_pdn,total_rej,rejection_rate_pct
+Double/Blended,293,1738506.0,25487,1.4660288776685269
+Single,10089,79763139.256,676572,0.8482263941850889
